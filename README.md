@@ -7,7 +7,6 @@ A simple command-line to-do list application written in Rust. This application a
 - **Add Tasks**: Easily add new tasks to your to-do list.
 - **Mark Tasks as Done**: Update the status of your tasks to completed.
 - **List Tasks**: View all tasks that are still pending.
-- **Wipe the List**: Delete the entire to-do list from your system.
 
 ## Requirements
 
