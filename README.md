@@ -1,6 +1,6 @@
 # Todo
 
-A simple command-line to-do list application written in Rust. This application allows you to add tasks, mark them as done, list all pending tasks, and wipe the entire to-do list.
+A simple command-line to-do list application written in Rust. This application allows you to add tasks, mark them as done, and list all pending tasks.
 
 ## Features
 
